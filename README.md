@@ -16,8 +16,12 @@
   <img src="https://img.shields.io/badge/-C%20-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 - 🌐 &nbsp;
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-%23748aad?style=flat&logo=react&logoColor=%2365ADF1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-white?style=flat&logo=nextdotjs&logoColor=%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Type%20Script-%233178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 - 🛢 &nbsp;
@@ -30,11 +34,12 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 - 🔧 &nbsp;
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  <img alt="Static Badge" src="https://img.shields.io/badge/Web%20Storm-black?style=flat&logo=webstorm&logoColor=white">
 - 🖥 &nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white">
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+ 
 
 <br/>
 
