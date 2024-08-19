@@ -19,11 +19,14 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-%23748aad?style=flat&logo=react&logoColor=%2365ADF1">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-white?style=flat&logo=nextdotjs&logoColor=%23000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/Type%20Script-%233178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+- 📱 &nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-%2361DAFB?style=flat&logo=react&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Expo-%23000020?style=flat&logo=expo&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Native%20Wind-%2361DAFB?style=flat&logo=tailwindcss&logoColor=white">
 - 🛢 &nbsp;
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
