@@ -1,4 +1,4 @@
-![image alt](https://github.com/MdYusuf47/desktop-tutorial/blob/main/getimg_ai-2024-08-24T06_34_40.369Z.png?raw=true)
+![image alt](https://github.com/MdYusuf47/desktop-tutorial/blob/main/img-cikc5CwVUuR5p6thpLDCV.jpeg?raw=true)
 
 <h2> Hey there! I'm Md Yusuf.</h2>
 
